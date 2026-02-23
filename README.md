@@ -78,4 +78,4 @@ ecommerce-customer-analytics/
 ## Author
 
 **Meet Javiya**
-Full Stack Developer | Data Analytics & Machine Learning Enthusiast
+Data Analytics & Machine Learning Enthusiast
