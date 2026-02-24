@@ -39,7 +39,7 @@ This project covers the complete machine learning lifecycle, including data prep
 
 * **Programming Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib
-* **Tools:** Jupyter Notebook, VS Code
+* **Tools:** Jupyter Notebook, VS Code, PowerBi
 * **Version Control:** Git & GitHub
 
 ---
