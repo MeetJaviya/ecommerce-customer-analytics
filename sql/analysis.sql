@@ -59,7 +59,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 
-SELECT * from customers;
+SELECT * from sales;
 SELECT SUM(TotalPrice) FROM sales;
 
 

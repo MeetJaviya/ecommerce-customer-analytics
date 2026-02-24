@@ -26,5 +26,7 @@ rfm['Churn'] = rfm['Recency'].apply(lambda x: 1 if x > 90 else 0)
 # )
 
 rfm.to_csv("data/processed/rfm_data.csv")
+rfm.to_excel("excel/rfm.xlsx", index=False)
+
 
 print("Feature Engineering Completed")

@@ -9,6 +9,6 @@ df = df[df['Quantity'] > 0]
 df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
 
 df.to_csv("data/processed/cleaned_data.csv", index=False)
-df.to_excel("excel/ecommerce_dashboard.xlsx", index=False)
+df.to_excel("excel/cleaned_data.xlsx", index=False)
 
 print("Data Cleaning Completed")
