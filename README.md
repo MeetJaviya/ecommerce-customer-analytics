@@ -38,7 +38,7 @@ This project covers the complete machine learning lifecycle, including data prep
 ## Tech Stack
 
 * **Programming Language:** Python
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib
+* **Libraries:** Pandas, NumPy, Scikit-learn, Joblib
 * **Tools:** Jupyter Notebook, VS Code, PowerBi
 * **Version Control:** Git & GitHub
 
